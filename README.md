@@ -22,7 +22,7 @@ VSLM (Variable Segment Length Modulation) is a technique used in computer networ
 ## Example
 <img src="https://github.com/Simonpetermuyomba/VSLM-Lab/blob/main/screenshot.png">
 
-## Basing on the above case scenario I was able to come up the following solutions and configured the PC's to communicate with each other.
+## Basing on the above case scenario I was able to come up the following solutions and configured the PC's and routers to communicate with each other.
 <div align="center">
 <img src="https://github.com/Simonpetermuyomba/VSLM-Lab/blob/main/Open%20Vslm.jpeg">
 </div>

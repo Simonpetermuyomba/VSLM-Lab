@@ -26,6 +26,10 @@ VSLM (Variable Segment Length Modulation) is a technique used in computer networ
 <div align="center">
 <img src="https://github.com/Simonpetermuyomba/VSLM-Lab/blob/main/Open%20Vslm.jpeg">
 </div>
+
+## Demonstration
+You can access the live example here: 📡 [Basic Network Topology (.pkt)](https://github.com/Simonpetermuyomba/VSLM-Lab/blob/main/Day%2015%20Lab%20-%20VLSM.pkt) by Pinging PC1 to PC4( In your PC1  terminal type: Ping 192.168.5.209 so that PC1 and communicate with PC4 ) 
+
 ## Conclusion
 VSLM is a powerful technique that can significantly improve the performance and efficiency of computer networks by dynamically adapting the segment length of data transmission. Its ability to optimize network resource utilization makes it a valuable tool for a wide range of network applications.
 
